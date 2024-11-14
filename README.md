@@ -1,4 +1,4 @@
-Projeto de fazer uma api REST
+Projeto de fazer uma api REST - Aprendizado
 
 classDiagram
     class User {
